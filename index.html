@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <title>JokenPô</title>
+</head>
+
+<body>
+    <!-- Tela inicial -->
+    <div class="user">
+
+        <h2 data-aos="fade-down" data-aos-delay="300" data-aos-duration="1500">Seja bem vindo a <b>JokenPô</b> </h2>
+        <h4 data-aos="fade-up" data-aos-delay="300" data-aos-duration="1500">Vamos testar a sorte?</h4> 
+        
+        <input type="text" placeholder="&#x1F465; Digite seu nome jogador" data-aos="fade-up" data-aos-delay="300"
+            data-aos-duration="1500">
+        <div data-aos="fade-up" data-aos-delay="300" data-aos-duration="1500" class="button-login">
+            <button class="login">Estou pronto</button>
+            <button class="refuse">Não quero jogar</button>
+        </div>
+
+    </div>
+    <!-- Conteúdo do jogo -->
+    <div class="container">
+        <!-- &#x2705; VENCEU 
+     &#x274C; PERDEU 
+    &#x1F916; ROBO -->
+        <h1 data-aos="fade-down" data-aos-delay="3000" data-aos-duration="2000"> JokenPô </h1>
+        <div class="selections">
+            <p id="name-user"></p>
+            <p class="result-game"></p>
+
+            <h3 data-aos="fade-right" data-aos-delay="3000" data-aos-duration="2000">&#x1F465; Seu resultado: <span id="player">0</span></h3>
+
+            <h3 data-aos="fade-left" data-aos-delay="3000" data-aos-duration="2000"> &#x1F916; Resultado da I.A: <span id="computer"> 0 </span></h3>
+            <div data-aos="zoom-out-up" data-aos-delay="3000" data-aos-duration="2000" class="buttons">
+                <button id="rock" onclick="optionHuman('rock')">&#x1F44A;</button>
+                <button id="paper" onclick="optionHuman('paper')">&#x1f590;</button>
+                <button id="scissors" onclick="optionHuman('scissors')">&#x270c;</button>
+            </div>
+        </div>
+    </div>
+    <script src="./scripts.js"></script>
+</body>
+
+
+</html>
