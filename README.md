@@ -1,4 +1,5 @@
-
+<img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230523.png">
+<img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230621.png">
 
 <h1>Projeto-Joken-P</h1>
 <b>Projeto Joken P é uma implementação simples do jogo pedra-papel-tesoura em Python.</b>
