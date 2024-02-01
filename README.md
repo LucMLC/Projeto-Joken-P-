@@ -1,0 +1,26 @@
+
+
+<h1>Projeto-Joken-P</h1>
+<b>Projeto Joken P é uma implementação simples do jogo pedra-papel-tesoura em Python.</b>
+
+
+<h2>Descrição</h2>
+<p>Este projeto foi desenvolvido com o objetivo de criar uma versão simples e interativa do famoso jogo "pedra-papel-tesoura". Utilizando a linguagem de programação Python, o Projeto Joken P oferece uma interface amigável para os usuários jogarem e se divertirem.</p>
+
+<h2>Funcionalidades</h2>
+<ul>
+<li>Escolha entre pedra, papel ou tesoura.</li>
+<li>Jogue contra o computador.</li>
+<li>Exibe o resultado do jogo.</li>
+  </ul>
+
+<h2>Como Jogar</h2>
+<ol>
+<li>Escolha entre pedra, papel ou tesoura.</li>
+<li>O computador fará sua escolha automaticamente.</li>
+<li>O resultado do jogo será exibido.</li>
+  </ol>
+  
+<h2>Contribuições</h2>
+
+<p>Contribuições são bem-vindas! Se você encontrar bugs ou tiver melhorias para sugerir, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
