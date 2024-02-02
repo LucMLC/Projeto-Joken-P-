@@ -1,5 +1,5 @@
 <h1>Deploy</h1>
-<a href="https://jokenpotestesuasorte.netlify.app/" target="blank"></a>
+<a href="https://jokenpotestesuasorte.netlify.app/" target="blank"> Visite o projeto aqui</a>
 
 <br>
 <div>
