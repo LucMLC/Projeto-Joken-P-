@@ -30,5 +30,6 @@
 <style>
   div{
     display:flex;
+    aling-itens: row;
   }
 </style>
