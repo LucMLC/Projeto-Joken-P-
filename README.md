@@ -10,12 +10,12 @@
 <img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230621.png" width="50%">
 </div>
 
-<h1>Projeto-Joken-P</h1>
-<b>Projeto Joken P é uma implementação simples do jogo pedra-papel-tesoura em HTML5, CSS3 e Javascript.</b>
+<h1>Projeto-Joken-Pô</h1>
+<b>Projeto Joken Pô é uma implementação simples do jogo pedra-papel-tesoura em HTML5, CSS3 e Javascript.</b>
 
 
 <h2>Descrição</h2>
-<p>Este projeto foi desenvolvido com o objetivo de criar uma versão simples e interativa do famoso jogo "pedra-papel-tesoura". Utilizando a linguagem de programação Javascript, o Projeto Joken P oferece uma interface amigável para os usuários jogarem e se divertirem.</p>
+<p>Este projeto foi desenvolvido com o objetivo de criar uma versão simples e interativa do famoso jogo "pedra-papel-tesoura". Utilizando a linguagem de programação Javascript, o Projeto Joken Pô oferece uma interface amigável para os usuários jogarem e se divertirem.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
