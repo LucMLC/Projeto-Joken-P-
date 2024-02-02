@@ -1,15 +1,16 @@
-<div><img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230523.png" width="auto">
-<img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230621.png" width="auto"></div>
+<div><img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230523.png" width="auto" margin="15px auto 15px auto">
+<img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230621.png" width="auto" margin="15px auto 15px auto"></div>
 
 <h1>Projeto-Joken-P</h1>
-<b>Projeto Joken P é uma implementação simples do jogo pedra-papel-tesoura em Python.</b>
+<b>Projeto Joken P é uma implementação simples do jogo pedra-papel-tesoura em HTML5, CSS3 e Javascript.</b>
 
 
 <h2>Descrição</h2>
-<p>Este projeto foi desenvolvido com o objetivo de criar uma versão simples e interativa do famoso jogo "pedra-papel-tesoura". Utilizando a linguagem de programação Python, o Projeto Joken P oferece uma interface amigável para os usuários jogarem e se divertirem.</p>
+<p>Este projeto foi desenvolvido com o objetivo de criar uma versão simples e interativa do famoso jogo "pedra-papel-tesoura". Utilizando a linguagem de programação Javascript, o Projeto Joken P oferece uma interface amigável para os usuários jogarem e se divertirem.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
+  <li> Crie o nome de seu usuário</li>
 <li>Escolha entre pedra, papel ou tesoura.</li>
 <li>Jogue contra o computador.</li>
 <li>Exibe o resultado do jogo.</li>
