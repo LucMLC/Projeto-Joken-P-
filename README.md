@@ -26,3 +26,9 @@
 <h2>Contribuições</h2>
 
 <p>Contribuições são bem-vindas! Se você encontrar bugs ou tiver melhorias para sugerir, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
+
+<style>
+  div{
+    display:flex;
+  }
+</style>
