@@ -1,9 +1,13 @@
-
+<h1>Deploy</h1>
+<a> src="https://jokenpotestesuasorte.netlify.app/" target="blank" </a>
 
 <br>
-<div><img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230523.png" width="50%">
+<div>
+  <img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230523.png" width="50%">
   <br>
-<img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230621.png" width="50%"></div>
+  <br
+<img src="https://raw.githubusercontent.com/LucMLC/Projeto-Joken-P-/a3ca5cdf8bf36248e7d9e0ba089ff499d4ea1704/assets/Captura%20de%20tela%202024-01-31%20230621.png" width="50%">
+</div>
 
 <h1>Projeto-Joken-P</h1>
 <b>Projeto Joken P é uma implementação simples do jogo pedra-papel-tesoura em HTML5, CSS3 e Javascript.</b>
@@ -31,10 +35,4 @@
 
 <p>Contribuições são bem-vindas! Se você encontrar bugs ou tiver melhorias para sugerir, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
 
-<style>
-  div{
-    display:flex;
-    aling-itens: center;
-    justify-content: center;
-  }
-</style>
+
